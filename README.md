@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jihed Saidani
 
-### 🚀 AI Engineer | MLOps & Data Specialist
+### 🚀 Junior Data Scientist | Cloud enhauist
 
 🎓 Master's in Computer Science — Faculty of Sciences of Bizerte
 👨‍🏫 Teaching Assistant (Cloud Computing & Machine Learning Labs)
