@@ -1,28 +1,97 @@
 # Hi there 👋, I'm Jihed Saidani
 
-**Junior Data Scientist | Data Analyst | AI Engineer**
+### 🚀 AI Engineer | MLOps & Data Specialist
 
-[cite_start]I hold a Master's degree in Computer Science and specialize in building and improving models for image, video, and text analysis[cite: 18, 20, 21]. I am passionate about turning data into actionable insights and developing intelligent systems. [cite_start]I also serve as a Teaching Assistant for Cloud Computing and ML labs at the Faculty of Sciences of Bizerte.
+🎓 Master's in Computer Science — Faculty of Sciences of Bizerte
+👨‍🏫 Teaching Assistant (Cloud Computing & Machine Learning Labs)
+🧠 Specialized in Computer Vision, NLP, and Intelligent Systems
+☁️ Interested in MLOps, Cloud AI, and scalable ML pipelines
 
-### 🛠️ Tech Stack & Tools
-* [cite_start]**Languages:** Python, SQL, Java [cite: 7]
-* [cite_start]**Machine Learning & AI:** Scikit-learn, TensorFlow, NLP, Computer Vision, Feature Engineering [cite: 8, 50]
-* [cite_start]**Data Analytics & BI:** Power BI, DAX, Power Query, Excel [cite: 6]
-* [cite_start]**Tools & Cloud:** AWS, Docker, Linux, Git/GitHub, Jupyter, VS Code, Streamlit [cite: 9, 64]
-* [cite_start]**Web Development:** React, Angular, Ionic, MongoDB [cite: 33, 39, 40]
+---
 
-### 🏆 Certifications
-* [cite_start]AWS Certified Machine Learning Specialty [cite: 11, 12, 13]
-* [cite_start]AWS Certified ML Engineer Associate [cite: 14]
-* [cite_start]Microsoft PL-300 (Power BI Data Analyst) [cite: 15]
-* [cite_start]GitHub Foundations [cite: 16]
+## 🧠 About Me
 
-### 🚀 Featured Projects
-* [cite_start]**Video Surveillance Anomaly Detection:** Designed and trained CNN and multimodal models achieving 95% accuracy on benchmark datasets[cite: 66, 68, 69].
-* [cite_start]**CineMatch:** A collaborative-filtering movie recommendation app built with Streamlit and KNN[cite: 59, 63, 64, 65].
-* [cite_start]**Printini AI Pipeline:** Automated NLP order extraction and production scheduling for a customized order platform[cite: 25, 26, 28].
-* [cite_start]**Sales & Supply Chain Dashboard:** Advanced Power BI dashboard with star schema modeling, Power Query, and advanced DAX[cite: 53, 57].
+I build intelligent systems that transform data into actionable insights. My work focuses on **computer vision, NLP, and end-to-end machine learning pipelines**, with a growing focus on **MLOps and cloud-based deployments**.
 
-### 📫 How to reach me
-* [cite_start]**LinkedIn:** [linkedin.com/in/jihed-saidani](https://linkedin.com/in/jihed-saidani) 
-* [cite_start]**Email:** saidanijihed1@protonmail.com
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+* Python, SQL, Java
+
+### 🤖 AI & Machine Learning
+
+* Scikit-learn, TensorFlow
+* Computer Vision, NLP
+* Feature Engineering, Model Optimization
+
+### 📊 Data Analytics & BI
+
+* Power BI (DAX, Power Query)
+* Excel
+
+### ⚙️ DevOps & Tools
+
+* Docker, GitHub Actions, Linux
+* Git/GitHub, Jupyter, VS Code, Streamlit
+
+### ☁️ Cloud
+
+* AWS (SageMaker, EC2, S3)
+
+### 🌐 Web Development
+
+* React, Angular, Ionic, MongoDB
+
+---
+
+## 🏆 Certifications
+
+* AWS Certified Machine Learning – Specialty
+* AWS Certified Machine Learning Engineer – Associate
+* Microsoft PL-300: Power BI Data Analyst
+* GitHub Foundations
+
+---
+
+## 🚀 Featured Projects
+
+### 🎥 Video Anomaly Detection System
+
+* Designed CNN and multimodal models for surveillance anomaly detection
+* Achieved **~95% accuracy** on benchmark datasets
+* Focus on real-time detection and model optimization
+
+### 🎬 CineMatch – Movie Recommendation System
+
+* Built with **Streamlit + KNN collaborative filtering**
+* Interactive UI for personalized recommendations
+
+### 🧾 Printini AI Pipeline
+
+* NLP-based system for automated order extraction
+* Integrated with production scheduling logic
+
+### 📊 Sales & Supply Chain Dashboard
+
+* Power BI dashboard with **star schema modeling**
+* Advanced DAX calculations and business insights
+
+---
+
+## 📈 GitHub Stats
+
+![Jihed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+---
+
+## 📫 Contact Me
+
+* 💼 LinkedIn: https://linkedin.com/in/jihed-saidani
+* 📧 Email: [saidanijihed1@protonmail.com](mailto:saidanijihed1@protonmail.com)
+
+---
+
+⭐️ *Always open to collaboration on AI, MLOps, and data-driven projects*
