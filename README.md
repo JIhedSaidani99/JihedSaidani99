@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**JIhedSaidani99/JihedSaidani99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# Hi there 👋, I'm Jihed Saidani
+# Hi there 👋, I'm Jihed Saidani
 
 **Junior Data Scientist | Data Analyst | AI Engineer**
 
@@ -38,6 +26,3 @@ Here are some ideas to get you started:
 ### 📫 How to reach me
 * [cite_start]**LinkedIn:** [linkedin.com/in/jihed-saidani](https://linkedin.com/in/jihed-saidani) 
 * [cite_start]**Email:** saidanijihed1@protonmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
