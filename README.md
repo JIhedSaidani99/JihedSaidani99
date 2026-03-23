@@ -81,11 +81,6 @@ I build intelligent systems that transform data into actionable insights. My wor
 
 ---
 
-## 📈 GitHub Stats
-
-![Jihed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
----
 
 ## 📫 Contact Me
 
