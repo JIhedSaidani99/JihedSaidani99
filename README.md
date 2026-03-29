@@ -1,92 +1,84 @@
-# Hi there 👋, I'm Jihed Saidani
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Jihed Saidani</h1>
+<h3 align="center">🚀 AI Engineer | MLOps & Cloud Enthusiast</h3>
 
-### 🚀 Junior Data Scientist | Cloud enhauist
-
-🎓 Master's in Computer Science — Faculty of Sciences of Bizerte
-👨‍🏫 Teaching Assistant (Cloud Computing & Machine Learning Labs)
-🧠 Specialized in Computer Vision, NLP, and Intelligent Systems
-☁️ Interested in MLOps, Cloud AI, and scalable ML pipelines
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;MLOps+Enthusiast;Cloud+(AWS)+Specialist;Computer+Vision+%7C+NLP&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 🧠 About Me
-
-I build intelligent systems that transform data into actionable insights. My work focuses on **computer vision, NLP, and end-to-end machine learning pipelines**, with a growing focus on **MLOps and cloud-based deployments**.
+- 🎓 MSc Computer Science — Faculty of Sciences of Bizerte  
+- 👨‍🏫 Teaching Assistant (Cloud Computing & ML Labs)  
+- 🤖 Building AI systems & end-to-end ML pipelines  
+- ☁️ Focus on MLOps, Cloud AI, and scalable systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
-* Python, SQL, Java
-
-### 🤖 AI & Machine Learning
-
-* Scikit-learn, TensorFlow
-* Computer Vision, NLP
-* Feature Engineering, Model Optimization
-
-### 📊 Data Analytics & BI
-
-* Power BI (DAX, Power Query)
-* Excel
-
-### ⚙️ DevOps & Tools
-
-* Docker, GitHub Actions, Linux
-* Git/GitHub, Jupyter, VS Code, Streamlit
-
-### ☁️ Cloud
-
-* AWS (SageMaker, EC2, S3)
-
-### 🌐 Web Development
-
-* React, Angular, Ionic, MongoDB
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,sql,tensorflow,docker,kubernetes,aws,linux,git,github,vscode"/>
+</p>
 
 ---
 
 ## 🏆 Certifications
 
-* AWS Certified Machine Learning – Specialty
-* AWS Certified Machine Learning Engineer – Associate
-* Microsoft PL-300: Power BI Data Analyst
-* GitHub Foundations
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-PL--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
-
-### 🎥 Video Anomaly Detection System
-
-* Designed CNN and multimodal models for surveillance anomaly detection
-* Achieved **~95% accuracy** on benchmark datasets
-* Focus on real-time detection and model optimization
-
-### 🎬 CineMatch – Movie Recommendation System
-
-* Built with **Streamlit + KNN collaborative filtering**
-* Interactive UI for personalized recommendations
-
-### 🧾 Printini AI Pipeline
-
-* NLP-based system for automated order extraction
-* Integrated with production scheduling logic
-
-### 📊 Sales & Supply Chain Dashboard
-
-* Power BI dashboard with **star schema modeling**
-* Advanced DAX calculations and business insights
+- 🎥 **Video Anomaly Detection** — CNN models (~95% accuracy)  
+- 🎬 **CineMatch** — Movie recommender (Streamlit + KNN)  
+- 🧾 **Printini AI Pipeline** — NLP automation system  
+- 📊 **Power BI Dashboard** — Sales & supply chain analytics  
 
 ---
 
+## 📊 GitHub Stats
 
-## 📫 Contact Me
-
-* 💼 LinkedIn: https://linkedin.com/in/jihed-saidani
-* 📧 Email: [saidanijihed1@protonmail.com](mailto:saidanijihed1@protonmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐️ *Always open to collaboration on AI, MLOps, and data-driven projects*
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/jihed-saidani">
+    <img src="https://img.shields.io/badge/LinkedIn-jihed--saidani-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:saidanijihed1@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-ProtonMail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 I enjoy combining AI + Cloud + DevOps to build production-ready intelligent systems.
+
+---
+
+<p align="center">
+  ⭐️ From <b>Jihed Saidani</b> — Open to AI, MLOps & Cloud opportunities
+</p>
