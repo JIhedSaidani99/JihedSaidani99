@@ -23,27 +23,22 @@
 </p>
 
 ---
-
 ## 🏆 Certifications
 
 <p align="center">
-  <a href="YOUR_AWS_SPECIALTY_LINK">
-    <img src="https://images.credly.com/size/340x340/images/5b2c3c2b-6c8a-4f3d-9d6e-0f1e6b3b7e2a/aws-certified-machine-learning-specialty.png" width="120"/>
+  <a href="YOUR_CREDLY_LINK">
+    <img src="assets/certs/aws-ml-specialty.png" width="120"/>
   </a>
 
-  <a href="YOUR_AWS_ASSOCIATE_LINK">
-    <img src="https://images.credly.com/size/340x340/images/4f1c3f74-1e1f-4c3a-9c1c-9c1f6c3e3e3e/aws-certified-machine-learning-engineer-associate.png" width="120"/>
+  <a href="YOUR_CREDLY_LINK">
+    <img src="assets/certs/aws-ml-associate.png" width="120"/>
   </a>
 
-  <a href="YOUR_PL300_LINK">
-    <img src="https://images.credly.com/size/340x340/images/0c6b3c2d-5f3e-4c2a-9e3d-1f3c2e3b4c5d/microsoft-certified-data-analyst-associate.png" width="120"/>
+  <a href="YOUR_CREDLY_LINK">
+    <img src="assets/certs/pl300.png" width="120"/>
   </a>
 
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://images.credly.com/size/340x340/images/6f2d3c4b-1e2f-4c3d-9b2c-3e4f5a6b7c8d/github-foundations.png" width="120"/>
-  </a>
 </p>
----
 
 ## 🚀 Featured Projects
 - 🎥 **Video Anomaly Detection** — CNN and Autoencoder models   
