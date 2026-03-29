@@ -12,7 +12,6 @@
 ## 🧠 About Me
 - 🎓 MSc Computer Science — Faculty of Sciences of Bizerte  
 - 👨‍🏫 Teaching Assistant (Cloud Computing & ML Labs)  
-- 🤖 Building AI systems & end-to-end ML pipelines  
 - ☁️ Focus on MLOps, Cloud AI, and scalable systems  
 
 ---
@@ -28,16 +27,26 @@
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft-PL--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+  <a href="YOUR_AWS_SPECIALTY_LINK">
+    <img src="https://images.credly.com/size/340x340/images/5b2c3c2b-6c8a-4f3d-9d6e-0f1e6b3b7e2a/aws-certified-machine-learning-specialty.png" width="120"/>
+  </a>
 
+  <a href="YOUR_AWS_ASSOCIATE_LINK">
+    <img src="https://images.credly.com/size/340x340/images/4f1c3f74-1e1f-4c3a-9c1c-9c1f6c3e3e3e/aws-certified-machine-learning-engineer-associate.png" width="120"/>
+  </a>
+
+  <a href="YOUR_PL300_LINK">
+    <img src="https://images.credly.com/size/340x340/images/0c6b3c2d-5f3e-4c2a-9e3d-1f3c2e3b4c5d/microsoft-certified-data-analyst-associate.png" width="120"/>
+  </a>
+
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://images.credly.com/size/340x340/images/6f2d3c4b-1e2f-4c3d-9b2c-3e4f5a6b7c8d/github-foundations.png" width="120"/>
+  </a>
+</p>
 ---
 
 ## 🚀 Featured Projects
-- 🎥 **Video Anomaly Detection** — CNN models (~95% accuracy)  
+- 🎥 **Video Anomaly Detection** — CNN and Autoencoder models   
 - 🎬 **CineMatch** — Movie recommender (Streamlit + KNN)  
 - 🧾 **Printini AI Pipeline** — NLP automation system  
 - 📊 **Power BI Dashboard** — Sales & supply chain analytics  
@@ -73,12 +82,6 @@
 </p>
 
 ---
-
-## ⚡ Fun Fact
-💡 I enjoy combining AI + Cloud + DevOps to build production-ready intelligent systems.
-
----
-
 <p align="center">
   ⭐️ From <b>Jihed Saidani</b> — Open to AI, MLOps & Cloud opportunities
 </p>
