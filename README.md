@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,tensorflow,docker,kubernetes,aws,linux,git,github,terraform,github actions"/>
+  <img src="https://skillicons.dev/icons?i=python,sql,tensorflow,docker,kubernetes,aws,linux,git,github,terraform,githubactions"/>
 </p>
 
 ---
