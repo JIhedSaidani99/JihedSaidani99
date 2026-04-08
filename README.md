@@ -34,7 +34,7 @@
   </a>
 
   <a href="YOUR_GITHUB_CREDLY_LINK">
-    <img src="assets/certs/github-foundations.png" width="120"/>
+    <img src="assets/certs/aws-ml-asscociate.png" width="120"/>
   </a>
 </p>
 
