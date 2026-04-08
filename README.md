@@ -22,11 +22,10 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,docker,kubernetes,aws,linux,git,github,terraform,githubactions,powerbi"/>
 </p>
 
----
-## 🏆 Certifications
-
-[![AWS ML](https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
+ -<p align=" center">
+<a href="YOUR_CREDLY_LINK"> 34
+- </a>
+-</p>
 
 ## 🚀 Featured Projects
 - 🎥 **Video Anomaly Detection** — CNN and Autoencoder models   
