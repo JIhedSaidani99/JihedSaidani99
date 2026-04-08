@@ -22,10 +22,21 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,docker,kubernetes,aws,linux,git,github,terraform,githubactions,powerbi"/>
 </p>
 
- -<p align=" center">
-<a href="YOUR_CREDLY_LINK"> 34
-- </a>
--</p>
+## 🏆 Certifications
+
+<p align="center">
+  <a href="YOUR_CREDLY_LINK">
+    <img src="aws-ml-specialty.png" width="120"/>
+  </a>
+
+  <a href="YOUR_CREDLY_LINK">
+    <img src="pl300.png" width="120"/>
+  </a>
+
+  <a href="YOUR_CREDLY_LINK">
+    <img src="github-foundations.png" width="120"/>
+  </a>
+</p>
 
 ## 🚀 Featured Projects
 - 🎥 **Video Anomaly Detection** — CNN and Autoencoder models   
