@@ -25,20 +25,8 @@
 ---
 ## 🏆 Certifications
 
-<p align="center">
-  <a href="YOUR_CREDLY_LINK">
-    <img src="assets/certs/aws-ml-specialty.png" width="120"/>
-  </a>
-
-  <a href="YOUR_CREDLY_LINK">
-    <img src="assets/certs/aws-ml-associate.png" width="120"/>
-  </a>
-
-  <a href="YOUR_CREDLY_LINK">
-    <img src="assets/certs/pl300.png" width="120"/>
-  </a>
-
-</p>
+[![AWS ML](https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
 ## 🚀 Featured Projects
 - 🎥 **Video Anomaly Detection** — CNN and Autoencoder models   
