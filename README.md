@@ -25,16 +25,16 @@
 ## 🏆 Certifications
 
 <p align="center">
-  <a href="YOUR_CREDLY_LINK">
-    <img src="aws-ml-specialty.png" width="120"/>
+  <a href="YOUR_AWS_CREDLY_LINK">
+    <img src="assets/certs/aws-ml-specialty.png" width="120"/>
   </a>
 
-  <a href="YOUR_CREDLY_LINK">
-    <img src="pl300.png" width="120"/>
+  <a href="YOUR_PL300_CREDLY_LINK">
+    <img src="assets/certs/pl300.png" width="120"/>
   </a>
 
-  <a href="YOUR_CREDLY_LINK">
-    <img src="github-foundations.png" width="120"/>
+  <a href="YOUR_GITHUB_CREDLY_LINK">
+    <img src="assets/certs/github-foundations.png" width="120"/>
   </a>
 </p>
 
